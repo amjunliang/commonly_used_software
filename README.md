@@ -1,2 +1,2 @@
 # commonly_used_software
-Mac 必背软件
+Mac 必备软件
